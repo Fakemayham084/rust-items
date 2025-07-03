@@ -54,6 +54,16 @@
     "short_name": "abovegroundpool",
     "id": "1840570710"
   },
+  "abyss-horizontal-storage-tank": {
+    "name": "Abyss Horizontal Storage Tank",
+    "short_name": "abyss.barrel.horizontal",
+    "id": "-880494890"
+  },
+  "abyss-vertical-storage-tank": {
+    "name": "Abyss Vertical Storage Tank",
+    "short_name": "abyss.barrel.vertical",
+    "id": "-919882824"
+  },
   "acoustic-guitar": {
     "name": "Acoustic Guitar",
     "short_name": "fun.guitar",
@@ -1133,6 +1143,11 @@
     "name": "Diving Tank",
     "short_name": "diving.tank",
     "id": "-2022172587"
+  },
+  "documents": {
+    "name": "Documents",
+    "short_name": "documents",
+    "id": "-451310088"
   },
   "door-closer": {
     "name": "Door Closer",
@@ -2258,11 +2273,6 @@
     "name": "Light Frankenstein Torso",
     "short_name": "frankensteins.monster.01.torso",
     "id": "-1624770297"
-  },
-  "light-up-frame-large": {
-    "name": "Light-Up Frame Large",
-    "short_name": "lightup.large",
-    "id": "242421166"
   },
   "locker": {
     "name": "Locker",
@@ -4663,5 +4673,15 @@
     "name": "Yellow Perch",
     "short_name": "fish.yellowperch",
     "id": "680234026"
+  },
+  "high-external-legacy-gate": {
+    "name": "gates.external.high.legacy",
+    "short_name": "gates.external.high.legacy",
+    "id": "-1442339204"
+  },
+  "high-external-legacy-wall": {
+    "name": "wall.external.high.legacy",
+    "short_name": "wall.external.high.legacy",
+    "id": "-1993883724"
   }
 }

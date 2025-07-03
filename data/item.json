@@ -110,6 +110,26 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Abyss Horizontal Storage Tank",
+    "url": "https://rusthelp.com/items/abyss-horizontal-storage-tank",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/abyss-barrel-horizontal.webp",
+    "slug": "abyss-horizontal-storage-tank",
+    "short_name": "abyss.barrel.horizontal",
+    "id": "-880494890",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "Abyss Vertical Storage Tank",
+    "url": "https://rusthelp.com/items/abyss-vertical-storage-tank",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/abyss-barrel-vertical.webp",
+    "slug": "abyss-vertical-storage-tank",
+    "short_name": "abyss.barrel.vertical",
+    "id": "-919882824",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Acoustic Guitar",
     "url": "https://rusthelp.com/items/acoustic-guitar",
     "image": "https://cdn.rusthelp.com/images/thumbnails/fun-guitar.webp",
@@ -2268,6 +2288,16 @@
     "id": "-2022172587",
     "stack_size": "\u00d71",
     "despawn_time": "20m"
+  },
+  {
+    "name": "Documents",
+    "url": "https://rusthelp.com/items/documents",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/documents.webp",
+    "slug": "documents",
+    "short_name": "documents",
+    "id": "-451310088",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
   },
   {
     "name": "Door Closer",
@@ -4518,16 +4548,6 @@
     "id": "-1624770297",
     "stack_size": "\u00d71",
     "despawn_time": "5m"
-  },
-  {
-    "name": "Light-Up Frame Large",
-    "url": "https://rusthelp.com/items/light-up-frame-large",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/lightup-large.webp",
-    "slug": "light-up-frame-large",
-    "short_name": "lightup.large",
-    "id": "242421166",
-    "stack_size": "\u00d71",
-    "despawn_time": "20m"
   },
   {
     "name": "Locker",
@@ -9326,6 +9346,26 @@
     "slug": "yellow-perch",
     "short_name": "fish.yellowperch",
     "id": "680234026",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "gates.external.high.legacy",
+    "url": "https://rusthelp.com/items/high-external-legacy-gate",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/gates-external-high-legacy.webp",
+    "slug": "high-external-legacy-gate",
+    "short_name": "gates.external.high.legacy",
+    "id": "-1442339204",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "wall.external.high.legacy",
+    "url": "https://rusthelp.com/items/high-external-legacy-wall",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/wall-external-high-legacy.webp",
+    "slug": "high-external-legacy-wall",
+    "short_name": "wall.external.high.legacy",
+    "id": "-1993883724",
     "stack_size": "\u00d710",
     "despawn_time": "5m"
   }

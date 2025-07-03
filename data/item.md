@@ -110,6 +110,26 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/above-ground-pool)
 
+## Abyss Horizontal Storage Tank
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/abyss-barrel-horizontal.webp)
+
+- **Short Name**: `abyss.barrel.horizontal`
+- **ID**: `-880494890`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/abyss-horizontal-storage-tank)
+
+## Abyss Vertical Storage Tank
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/abyss-barrel-vertical.webp)
+
+- **Short Name**: `abyss.barrel.vertical`
+- **ID**: `-919882824`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/abyss-vertical-storage-tank)
+
 ## Acoustic Guitar
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/fun-guitar.webp)
@@ -2269,6 +2289,16 @@
 - **Stack Size**: ×1
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/diving-tank)
+
+## Documents
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/documents.webp)
+
+- **Short Name**: `documents`
+- **ID**: `-451310088`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/documents)
 
 ## Door Closer
 
@@ -4519,16 +4549,6 @@
 - **Stack Size**: ×1
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/light-frankenstein-torso)
-
-## Light-Up Frame Large
-
-![Image](https://cdn.rusthelp.com/images/thumbnails/lightup-large.webp)
-
-- **Short Name**: `lightup.large`
-- **ID**: `242421166`
-- **Stack Size**: ×1
-- **Despawn Time**: 20m
-- [View Item](https://rusthelp.com/items/light-up-frame-large)
 
 ## Locker
 
@@ -9329,4 +9349,24 @@
 - **Stack Size**: ×10
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/yellow-perch)
+
+## gates.external.high.legacy
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/gates-external-high-legacy.webp)
+
+- **Short Name**: `gates.external.high.legacy`
+- **ID**: `-1442339204`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/high-external-legacy-gate)
+
+## wall.external.high.legacy
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/wall-external-high-legacy.webp)
+
+- **Short Name**: `wall.external.high.legacy`
+- **ID**: `-1993883724`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/high-external-legacy-wall)
 
