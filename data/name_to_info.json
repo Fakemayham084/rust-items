@@ -2164,6 +2164,11 @@
     "short_name": "vehicle.2mod.flatbed",
     "id": "-1693832478"
   },
+  "large-furnace": {
+    "name": "Large Furnace",
+    "short_name": "furnace.large",
+    "id": "-1992717673"
+  },
   "large-hunting-trophy": {
     "name": "Large Hunting Trophy",
     "short_name": "huntingtrophylarge",

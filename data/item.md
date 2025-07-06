@@ -4330,6 +4330,16 @@
 - **Despawn Time**: 40m
 - [View Item](https://rusthelp.com/items/large-flatbed-vehicle-module)
 
+## Large Furnace
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/furnace-large.webp)
+
+- **Short Name**: `furnace.large`
+- **ID**: `-1992717673`
+- **Stack Size**: ×1
+- **Despawn Time**: 40m
+- [View Item](https://rusthelp.com/items/large-furnace)
+
 ## Large Hunting Trophy
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/huntingtrophylarge.webp)

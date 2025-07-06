@@ -4330,6 +4330,16 @@
     "despawn_time": "40m"
   },
   {
+    "name": "Large Furnace",
+    "url": "https://rusthelp.com/items/large-furnace",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/furnace-large.webp",
+    "slug": "large-furnace",
+    "short_name": "furnace.large",
+    "id": "-1992717673",
+    "stack_size": "\u00d71",
+    "despawn_time": "40m"
+  },
+  {
     "name": "Large Hunting Trophy",
     "url": "https://rusthelp.com/items/large-hunting-trophy",
     "image": "https://cdn.rusthelp.com/images/thumbnails/huntingtrophylarge.webp",
