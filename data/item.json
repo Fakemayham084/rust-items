@@ -810,6 +810,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Black Box",
+    "url": "https://rusthelp.com/items/black-box",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/pilot-hazmat-box-wooden.webp",
+    "slug": "black-box",
+    "short_name": "pilot.hazmat.box.wooden",
+    "id": "537946062",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Black Raspberries",
     "url": "https://rusthelp.com/items/black-raspberries",
     "image": "https://cdn.rusthelp.com/images/thumbnails/black-raspberries.webp",
@@ -1840,6 +1850,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Compass",
+    "url": "https://rusthelp.com/items/compass",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/compass.webp",
+    "slug": "compass",
+    "short_name": "compass",
+    "id": "594041190",
+    "stack_size": "\u00d71",
+    "despawn_time": "20m"
+  },
+  {
     "name": "Composter",
     "url": "https://rusthelp.com/items/composter",
     "image": "https://cdn.rusthelp.com/images/thumbnails/composter.webp",
@@ -2790,6 +2810,16 @@
     "despawn_time": "40m"
   },
   {
+    "name": "Flight Control Codelock",
+    "url": "https://rusthelp.com/items/flight-control-codelock",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/lock-code-a-pilot.webp",
+    "slug": "flight-control-codelock",
+    "short_name": "lock.code.a.pilot",
+    "id": "1586884551",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Floor grill",
     "url": "https://rusthelp.com/items/floor-grill",
     "image": "https://cdn.rusthelp.com/images/thumbnails/floor-grill.webp",
@@ -3586,6 +3616,26 @@
     "slug": "high-external-frontier-wall",
     "short_name": "wall.external.high.frontier",
     "id": "63265850",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "High External Legacy Gate",
+    "url": "https://rusthelp.com/items/high-external-legacy-gate",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/gates-external-high-legacy.webp",
+    "slug": "high-external-legacy-gate",
+    "short_name": "gates.external.high.legacy",
+    "id": "-1442339204",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "High External Legacy Wall",
+    "url": "https://rusthelp.com/items/high-external-legacy-wall",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/wall-external-high-legacy.webp",
+    "slug": "high-external-legacy-wall",
+    "short_name": "wall.external.high.legacy",
+    "id": "-1993883724",
     "stack_size": "\u00d710",
     "despawn_time": "5m"
   },
@@ -4690,6 +4740,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "M15 Semi-Automatic Pistol",
+    "url": "https://rusthelp.com/items/m15-semi-automatic-pistol",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/pistol-semiauto-a-m15.webp",
+    "slug": "m15-semi-automatic-pistol",
+    "short_name": "pistol.semiauto.a.m15",
+    "id": "1673224590",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
     "name": "M249",
     "url": "https://rusthelp.com/items/m249",
     "image": "https://cdn.rusthelp.com/images/thumbnails/lmg-m249.webp",
@@ -5680,6 +5740,16 @@
     "despawn_time": "20m"
   },
   {
+    "name": "Pilot Hazmat Suit",
+    "url": "https://rusthelp.com/items/pilot-hazmat-suit",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/hazmatsuit-pilot.webp",
+    "slug": "pilot-hazmat-suit",
+    "short_name": "hazmatsuit.pilot",
+    "id": "1065594600",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Pinata",
     "url": "https://rusthelp.com/items/pinata",
     "image": "https://cdn.rusthelp.com/images/thumbnails/pinata.webp",
@@ -6480,6 +6550,16 @@
     "despawn_time": "20m"
   },
   {
+    "name": "Road Sign Gloves",
+    "url": "https://rusthelp.com/items/roadsign-gloves",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/roadsign-gloves.webp",
+    "slug": "roadsign-gloves",
+    "short_name": "roadsign.gloves",
+    "id": "-699558439",
+    "stack_size": "\u00d71",
+    "despawn_time": "40m"
+  },
+  {
     "name": "Road Sign Jacket",
     "url": "https://rusthelp.com/items/road-sign-jacket",
     "image": "https://cdn.rusthelp.com/images/thumbnails/roadsign-jacket.webp",
@@ -6508,16 +6588,6 @@
     "id": "1199391518",
     "stack_size": "\u00d720",
     "despawn_time": "20m"
-  },
-  {
-    "name": "Roadsign Gloves",
-    "url": "https://rusthelp.com/items/roadsign-gloves",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/roadsign-gloves.webp",
-    "slug": "roadsign-gloves",
-    "short_name": "roadsign.gloves",
-    "id": "-699558439",
-    "stack_size": "\u00d71",
-    "despawn_time": "40m"
   },
   {
     "name": "Roadsign Horse Armor",
@@ -6818,6 +6888,16 @@
     "id": "-1978999529",
     "stack_size": "\u00d71",
     "despawn_time": "20m"
+  },
+  {
+    "name": "Salvaged Ejector Seat",
+    "url": "https://rusthelp.com/items/salvaged-ejector-seat",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/chair-ejector-seat.webp",
+    "slug": "salvaged-ejector-seat",
+    "short_name": "chair.ejector.seat",
+    "id": "-463012608",
+    "stack_size": "\u00d75",
+    "despawn_time": "5m"
   },
   {
     "name": "Salvaged Hammer",
@@ -7760,7 +7840,7 @@
     "despawn_time": "5m"
   },
   {
-    "name": "Spinning wheel",
+    "name": "Spinning Wheel",
     "url": "https://rusthelp.com/items/spinning-wheel",
     "image": "https://cdn.rusthelp.com/images/thumbnails/spinner-wheel.webp",
     "slug": "spinning-wheel",
@@ -9346,26 +9426,6 @@
     "slug": "yellow-perch",
     "short_name": "fish.yellowperch",
     "id": "680234026",
-    "stack_size": "\u00d710",
-    "despawn_time": "5m"
-  },
-  {
-    "name": "gates.external.high.legacy",
-    "url": "https://rusthelp.com/items/high-external-legacy-gate",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/gates-external-high-legacy.webp",
-    "slug": "high-external-legacy-gate",
-    "short_name": "gates.external.high.legacy",
-    "id": "-1442339204",
-    "stack_size": "\u00d71",
-    "despawn_time": "5m"
-  },
-  {
-    "name": "wall.external.high.legacy",
-    "url": "https://rusthelp.com/items/high-external-legacy-wall",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/wall-external-high-legacy.webp",
-    "slug": "high-external-legacy-wall",
-    "short_name": "wall.external.high.legacy",
-    "id": "-1993883724",
     "stack_size": "\u00d710",
     "despawn_time": "5m"
   }

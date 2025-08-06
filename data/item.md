@@ -810,6 +810,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/black-berry-seed)
 
+## Black Box
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/pilot-hazmat-box-wooden.webp)
+
+- **Short Name**: `pilot.hazmat.box.wooden`
+- **ID**: `537946062`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/black-box)
+
 ## Black Raspberries
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/black-raspberries.webp)
@@ -1840,6 +1850,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/command-block)
 
+## Compass
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/compass.webp)
+
+- **Short Name**: `compass`
+- **ID**: `594041190`
+- **Stack Size**: ×1
+- **Despawn Time**: 20m
+- [View Item](https://rusthelp.com/items/compass)
+
 ## Composter
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/composter.webp)
@@ -2790,6 +2810,16 @@
 - **Despawn Time**: 40m
 - [View Item](https://rusthelp.com/items/flatbed-vehicle-module)
 
+## Flight Control Codelock
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/lock-code-a-pilot.webp)
+
+- **Short Name**: `lock.code.a.pilot`
+- **ID**: `1586884551`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/flight-control-codelock)
+
 ## Floor grill
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/floor-grill.webp)
@@ -3589,6 +3619,26 @@
 - **Stack Size**: ×10
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/high-external-frontier-wall)
+
+## High External Legacy Gate
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/gates-external-high-legacy.webp)
+
+- **Short Name**: `gates.external.high.legacy`
+- **ID**: `-1442339204`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/high-external-legacy-gate)
+
+## High External Legacy Wall
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/wall-external-high-legacy.webp)
+
+- **Short Name**: `wall.external.high.legacy`
+- **ID**: `-1993883724`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/high-external-legacy-wall)
 
 ## High External Stone Gate
 
@@ -4690,6 +4740,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/lunar-wall-frame-floral)
 
+## M15 Semi-Automatic Pistol
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/pistol-semiauto-a-m15.webp)
+
+- **Short Name**: `pistol.semiauto.a.m15`
+- **ID**: `1673224590`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/m15-semi-automatic-pistol)
+
 ## M249
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/lmg-m249.webp)
@@ -5680,6 +5740,16 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/piercer-bolt)
 
+## Pilot Hazmat Suit
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/hazmatsuit-pilot.webp)
+
+- **Short Name**: `hazmatsuit.pilot`
+- **ID**: `1065594600`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/pilot-hazmat-suit)
+
 ## Pinata
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/pinata.webp)
@@ -6480,6 +6550,16 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/riot-helmet)
 
+## Road Sign Gloves
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/roadsign-gloves.webp)
+
+- **Short Name**: `roadsign.gloves`
+- **ID**: `-699558439`
+- **Stack Size**: ×1
+- **Despawn Time**: 40m
+- [View Item](https://rusthelp.com/items/roadsign-gloves)
+
 ## Road Sign Jacket
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/roadsign-jacket.webp)
@@ -6509,16 +6589,6 @@
 - **Stack Size**: ×20
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/road-signs)
-
-## Roadsign Gloves
-
-![Image](https://cdn.rusthelp.com/images/thumbnails/roadsign-gloves.webp)
-
-- **Short Name**: `roadsign.gloves`
-- **ID**: `-699558439`
-- **Stack Size**: ×1
-- **Despawn Time**: 40m
-- [View Item](https://rusthelp.com/items/roadsign-gloves)
 
 ## Roadsign Horse Armor
 
@@ -6819,6 +6889,16 @@
 - **Stack Size**: ×1
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/salvaged-cleaver)
+
+## Salvaged Ejector Seat
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/chair-ejector-seat.webp)
+
+- **Short Name**: `chair.ejector.seat`
+- **ID**: `-463012608`
+- **Stack Size**: ×5
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/salvaged-ejector-seat)
 
 ## Salvaged Hammer
 
@@ -7760,7 +7840,7 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/spider-webs)
 
-## Spinning wheel
+## Spinning Wheel
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/spinner-wheel.webp)
 
@@ -9349,24 +9429,4 @@
 - **Stack Size**: ×10
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/yellow-perch)
-
-## gates.external.high.legacy
-
-![Image](https://cdn.rusthelp.com/images/thumbnails/gates-external-high-legacy.webp)
-
-- **Short Name**: `gates.external.high.legacy`
-- **ID**: `-1442339204`
-- **Stack Size**: ×1
-- **Despawn Time**: 5m
-- [View Item](https://rusthelp.com/items/high-external-legacy-gate)
-
-## wall.external.high.legacy
-
-![Image](https://cdn.rusthelp.com/images/thumbnails/wall-external-high-legacy.webp)
-
-- **Short Name**: `wall.external.high.legacy`
-- **ID**: `-1993883724`
-- **Stack Size**: ×10
-- **Despawn Time**: 5m
-- [View Item](https://rusthelp.com/items/high-external-legacy-wall)
 

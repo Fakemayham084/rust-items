@@ -404,6 +404,11 @@
     "short_name": "seed.black.berry",
     "id": "1911552868"
   },
+  "black-box": {
+    "name": "Black Box",
+    "short_name": "pilot.hazmat.box.wooden",
+    "id": "537946062"
+  },
   "black-raspberries": {
     "name": "Black Raspberries",
     "short_name": "black.raspberries",
@@ -919,6 +924,11 @@
     "short_name": "command.block",
     "id": "-1247485104"
   },
+  "compass": {
+    "name": "Compass",
+    "short_name": "compass",
+    "id": "594041190"
+  },
   "composter": {
     "name": "Composter",
     "short_name": "composter",
@@ -1394,6 +1404,11 @@
     "short_name": "vehicle.1mod.flatbed",
     "id": "-1880231361"
   },
+  "flight-control-codelock": {
+    "name": "Flight Control Codelock",
+    "short_name": "lock.code.a.pilot",
+    "id": "1586884551"
+  },
   "floor-grill": {
     "name": "Floor grill",
     "short_name": "floor.grill",
@@ -1793,6 +1808,16 @@
     "name": "High External Frontier Wall",
     "short_name": "wall.external.high.frontier",
     "id": "63265850"
+  },
+  "high-external-legacy-gate": {
+    "name": "High External Legacy Gate",
+    "short_name": "gates.external.high.legacy",
+    "id": "-1442339204"
+  },
+  "high-external-legacy-wall": {
+    "name": "High External Legacy Wall",
+    "short_name": "wall.external.high.legacy",
+    "id": "-1993883724"
   },
   "high-external-stone-gate": {
     "name": "High External Stone Gate",
@@ -2344,6 +2369,11 @@
     "short_name": "wall.frame.lunar2025_c",
     "id": "-2016974826"
   },
+  "m15-semi-automatic-pistol": {
+    "name": "M15 Semi-Automatic Pistol",
+    "short_name": "pistol.semiauto.a.m15",
+    "id": "1673224590"
+  },
   "m249": {
     "name": "M249",
     "short_name": "lmg.m249",
@@ -2839,6 +2869,11 @@
     "short_name": "ballista.bolt.piercer",
     "id": "-1127003365"
   },
+  "pilot-hazmat-suit": {
+    "name": "Pilot Hazmat Suit",
+    "short_name": "hazmatsuit.pilot",
+    "id": "1065594600"
+  },
   "pinata": {
     "name": "Pinata",
     "short_name": "pinata",
@@ -3239,6 +3274,11 @@
     "short_name": "riot.helmet",
     "id": "671063303"
   },
+  "roadsign-gloves": {
+    "name": "Road Sign Gloves",
+    "short_name": "roadsign.gloves",
+    "id": "-699558439"
+  },
   "road-sign-jacket": {
     "name": "Road Sign Jacket",
     "short_name": "roadsign.jacket",
@@ -3253,11 +3293,6 @@
     "name": "Road Signs",
     "short_name": "roadsigns",
     "id": "1199391518"
-  },
-  "roadsign-gloves": {
-    "name": "Roadsign Gloves",
-    "short_name": "roadsign.gloves",
-    "id": "-699558439"
   },
   "roadsign-horse-armor": {
     "name": "Roadsign Horse Armor",
@@ -3408,6 +3443,11 @@
     "name": "Salvaged Cleaver",
     "short_name": "salvaged.cleaver",
     "id": "-1978999529"
+  },
+  "salvaged-ejector-seat": {
+    "name": "Salvaged Ejector Seat",
+    "short_name": "chair.ejector.seat",
+    "id": "-463012608"
   },
   "salvaged-hammer": {
     "name": "Salvaged Hammer",
@@ -3880,7 +3920,7 @@
     "id": "882559853"
   },
   "spinning-wheel": {
-    "name": "Spinning wheel",
+    "name": "Spinning Wheel",
     "short_name": "spinner.wheel",
     "id": "-1100422738"
   },
@@ -4673,15 +4713,5 @@
     "name": "Yellow Perch",
     "short_name": "fish.yellowperch",
     "id": "680234026"
-  },
-  "high-external-legacy-gate": {
-    "name": "gates.external.high.legacy",
-    "short_name": "gates.external.high.legacy",
-    "id": "-1442339204"
-  },
-  "high-external-legacy-wall": {
-    "name": "wall.external.high.legacy",
-    "short_name": "wall.external.high.legacy",
-    "id": "-1993883724"
   }
 }
