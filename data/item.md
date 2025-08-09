@@ -3220,16 +3220,6 @@
 - **Despawn Time**: 1h
 - [View Item](https://rusthelp.com/items/gun-powder)
 
-## HBHF Sensor
-
-![Image](https://cdn.rusthelp.com/images/thumbnails/electric-hbhfsensor.webp)
-
-- **Short Name**: `electric.hbhfsensor`
-- **ID**: `-1507239837`
-- **Stack Size**: ×5
-- **Despawn Time**: 20m
-- [View Item](https://rusthelp.com/items/hbhf-sensor)
-
 ## HMLMG
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/hmlmg.webp)

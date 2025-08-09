@@ -3220,16 +3220,6 @@
     "despawn_time": "1h"
   },
   {
-    "name": "HBHF Sensor",
-    "url": "https://rusthelp.com/items/hbhf-sensor",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-hbhfsensor.webp",
-    "slug": "hbhf-sensor",
-    "short_name": "electric.hbhfsensor",
-    "id": "-1507239837",
-    "stack_size": "\u00d75",
-    "despawn_time": "20m"
-  },
-  {
     "name": "HMLMG",
     "url": "https://rusthelp.com/items/hmlmg",
     "image": "https://cdn.rusthelp.com/images/thumbnails/hmlmg.webp",

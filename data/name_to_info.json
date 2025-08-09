@@ -1609,11 +1609,6 @@
     "short_name": "gunpowder",
     "id": "-265876753"
   },
-  "hbhf-sensor": {
-    "name": "HBHF Sensor",
-    "short_name": "electric.hbhfsensor",
-    "id": "-1507239837"
-  },
   "hmlmg": {
     "name": "HMLMG",
     "short_name": "hmlmg",
