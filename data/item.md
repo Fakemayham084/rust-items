@@ -5740,7 +5740,7 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/piercer-bolt)
 
-## Pilot Hazmat Suit
+## Pilot Suit
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/hazmatsuit-pilot.webp)
 
