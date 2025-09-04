@@ -1140,6 +1140,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Bulb String Lights",
+    "url": "https://rusthelp.com/items/bulb-string-lights",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-bulbstringlights.webp",
+    "slug": "bulb-string-lights",
+    "short_name": "electric.bulbstringlights",
+    "id": "104856514",
+    "stack_size": "\u00d7150",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Bunny Ears",
     "url": "https://rusthelp.com/items/bunny-ears",
     "image": "https://cdn.rusthelp.com/images/thumbnails/attire-bunnyears.webp",
@@ -1530,6 +1540,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Ceiling Fluorescent Light",
+    "url": "https://rusthelp.com/items/ceiling-fluorescent-light",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-fluorescentlight-ceiling.webp",
+    "slug": "ceiling-fluorescent-light",
+    "short_name": "electric.fluorescentlight.ceiling",
+    "id": "640470230",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Ceiling Light",
     "url": "https://rusthelp.com/items/ceiling-light",
     "image": "https://cdn.rusthelp.com/images/thumbnails/ceilinglight.webp",
@@ -1587,6 +1607,16 @@
     "short_name": "firework.boomer.champagne",
     "id": "1324203999",
     "stack_size": "\u00d720",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "Chandelier",
+    "url": "https://rusthelp.com/items/chandelier",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-chandelier.webp",
+    "slug": "chandelier",
+    "short_name": "electric.chandelier",
+    "id": "-1510616686",
+    "stack_size": "\u00d710",
     "despawn_time": "5m"
   },
   {
@@ -1728,6 +1758,16 @@
     "id": "-858312878",
     "stack_size": "\u00d71000",
     "despawn_time": "20m"
+  },
+  {
+    "name": "Clothing Mannequin",
+    "url": "https://rusthelp.com/items/clothing-mannequin",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/mannequin.webp",
+    "slug": "clothing-mannequin",
+    "short_name": "mannequin",
+    "id": "-1035206446",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
   },
   {
     "name": "Coal :(",
@@ -2520,6 +2560,16 @@
     "despawn_time": "20m"
   },
   {
+    "name": "Electric Table Lamp",
+    "url": "https://rusthelp.com/items/electric-table-lamp",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-tablelight.webp",
+    "slug": "electric-table-lamp",
+    "short_name": "electric.tablelight",
+    "id": "1717250161",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Electrical Branch",
     "url": "https://rusthelp.com/items/electrical-branch",
     "image": "https://cdn.rusthelp.com/images/thumbnails/electrical-branch.webp",
@@ -2638,6 +2688,26 @@
     "id": "143803535",
     "stack_size": "\u00d75",
     "despawn_time": "20m"
+  },
+  {
+    "name": "Fabric Beanbag Seat",
+    "url": "https://rusthelp.com/items/fabric-beanbag-seat",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/beanbagseatfabric.webp",
+    "slug": "fabric-beanbag-seat",
+    "short_name": "beanbagseatfabric",
+    "id": "-576866254",
+    "stack_size": "\u00d75",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "Fairy Lights",
+    "url": "https://rusthelp.com/items/fairy-lights",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-fairylights.webp",
+    "slug": "fairy-lights",
+    "short_name": "electric.fairylights",
+    "id": "54436981",
+    "stack_size": "\u00d7150",
+    "despawn_time": "5m"
   },
   {
     "name": "Fertilizer",
@@ -2867,6 +2937,16 @@
     "short_name": "fluid.switch",
     "id": "443432036",
     "stack_size": "\u00d75",
+    "despawn_time": "5m"
+  },
+  {
+    "name": "Fluorescent Light",
+    "url": "https://rusthelp.com/items/fluorescent-light",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-fluorescentlight.webp",
+    "slug": "fluorescent-light",
+    "short_name": "electric.fluorescentlight",
+    "id": "1892536031",
+    "stack_size": "\u00d710",
     "despawn_time": "5m"
   },
   {
@@ -4550,6 +4630,16 @@
     "despawn_time": "20m"
   },
   {
+    "name": "Leather Beanbag Seat",
+    "url": "https://rusthelp.com/items/leather-beanbag-seat",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/beanbagseatleather.webp",
+    "slug": "leather-beanbag-seat",
+    "short_name": "beanbagseatleather",
+    "id": "-1220928936",
+    "stack_size": "\u00d75",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Leather Gloves",
     "url": "https://rusthelp.com/items/leather-gloves",
     "image": "https://cdn.rusthelp.com/images/thumbnails/burlap-gloves.webp",
@@ -4714,26 +4804,26 @@
     "url": "https://rusthelp.com/items/lunar-wall-frame-inlay",
     "image": "https://cdn.rusthelp.com/images/thumbnails/wall-frame-lunar2025-a.webp",
     "slug": "lunar-wall-frame-inlay",
-    "short_name": "wall.frame.lunar2025_a",
-    "id": "1115193056",
+    "short_name": "wall.frame.lunar2025_c",
+    "id": "-2016974826",
     "stack_size": "\u00d710",
     "despawn_time": "5m"
   },
   {
     "name": "Lunar Wall Frame Inlay",
-    "url": "https://rusthelp.com/items/lunar-wall-frame-swirling",
+    "url": "https://rusthelp.com/items/lunar-wall-frame-inlay",
     "image": "https://cdn.rusthelp.com/images/thumbnails/wall-frame-lunar2025-b.webp",
-    "slug": "lunar-wall-frame-swirling",
-    "short_name": "wall.frame.lunar2025_b",
-    "id": "-450890885",
+    "slug": "lunar-wall-frame-inlay",
+    "short_name": "wall.frame.lunar2025_c",
+    "id": "-2016974826",
     "stack_size": "\u00d710",
     "despawn_time": "5m"
   },
   {
     "name": "Lunar Wall Frame Inlay",
-    "url": "https://rusthelp.com/items/lunar-wall-frame-floral",
+    "url": "https://rusthelp.com/items/lunar-wall-frame-inlay",
     "image": "https://cdn.rusthelp.com/images/thumbnails/wall-frame-lunar2025-c.webp",
-    "slug": "lunar-wall-frame-floral",
+    "slug": "lunar-wall-frame-inlay",
     "short_name": "wall.frame.lunar2025_c",
     "id": "-2016974826",
     "stack_size": "\u00d710",
@@ -4747,7 +4837,7 @@
     "short_name": "pistol.semiauto.a.m15",
     "id": "1673224590",
     "stack_size": "\u00d71",
-    "despawn_time": "5m"
+    "despawn_time": "40m"
   },
   {
     "name": "M249",
@@ -5740,14 +5830,14 @@
     "despawn_time": "20m"
   },
   {
-    "name": "Pilot Suit",
-    "url": "https://rusthelp.com/items/pilot-hazmat-suit",
+    "name": "Pilot Hazmat",
+    "url": "https://rusthelp.com/items/pilot-hazmat",
     "image": "https://cdn.rusthelp.com/images/thumbnails/hazmatsuit-pilot.webp",
-    "slug": "pilot-hazmat-suit",
+    "slug": "pilot-hazmat",
     "short_name": "hazmatsuit.pilot",
     "id": "1065594600",
     "stack_size": "\u00d71",
-    "despawn_time": "5m"
+    "despawn_time": "40m"
   },
   {
     "name": "Pinata",
@@ -7990,6 +8080,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Spot Light",
+    "url": "https://rusthelp.com/items/spot-light",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-spotlight.webp",
+    "slug": "spot-light",
+    "short_name": "electric.spotlight",
+    "id": "-1258821205",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Spray Can",
     "url": "https://rusthelp.com/items/spray-can",
     "image": "https://cdn.rusthelp.com/images/thumbnails/spraycan.webp",
@@ -8560,6 +8660,16 @@
     "despawn_time": "5m"
   },
   {
+    "name": "Tripod Spot Light",
+    "url": "https://rusthelp.com/items/tripod-spot-light",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-spotlight-tripod.webp",
+    "slug": "tripod-spot-light",
+    "short_name": "electric.spotlight.tripod",
+    "id": "-2134097299",
+    "stack_size": "\u00d710",
+    "despawn_time": "5m"
+  },
+  {
     "name": "Tuna Can Lamp",
     "url": "https://rusthelp.com/items/tuna-can-lamp",
     "image": "https://cdn.rusthelp.com/images/thumbnails/tunalight.webp",
@@ -8708,6 +8818,16 @@
     "id": "-1416322465",
     "stack_size": "\u00d71",
     "despawn_time": "20m"
+  },
+  {
+    "name": "Wall Cabinet",
+    "url": "https://rusthelp.com/items/wall-cabinet",
+    "image": "https://cdn.rusthelp.com/images/thumbnails/electric-wallcabinet.webp",
+    "slug": "wall-cabinet",
+    "short_name": "electric.wallcabinet",
+    "id": "656829501",
+    "stack_size": "\u00d71",
+    "despawn_time": "5m"
   },
   {
     "name": "Wallpaper",

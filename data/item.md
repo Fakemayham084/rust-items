@@ -1140,6 +1140,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/building-plan)
 
+## Bulb String Lights
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-bulbstringlights.webp)
+
+- **Short Name**: `electric.bulbstringlights`
+- **ID**: `104856514`
+- **Stack Size**: ×150
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/bulb-string-lights)
+
 ## Bunny Ears
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/attire-bunnyears.webp)
@@ -1530,6 +1540,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/catfish)
 
+## Ceiling Fluorescent Light
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-fluorescentlight-ceiling.webp)
+
+- **Short Name**: `electric.fluorescentlight.ceiling`
+- **ID**: `640470230`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/ceiling-fluorescent-light)
+
 ## Ceiling Light
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/ceilinglight.webp)
@@ -1589,6 +1609,16 @@
 - **Stack Size**: ×20
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/champagne-boomer)
+
+## Chandelier
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-chandelier.webp)
+
+- **Short Name**: `electric.chandelier`
+- **ID**: `-1510616686`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/chandelier)
 
 ## Charcoal
 
@@ -1729,6 +1759,16 @@
 - **Stack Size**: ×1000
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/cloth)
+
+## Clothing Mannequin
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/mannequin.webp)
+
+- **Short Name**: `mannequin`
+- **ID**: `-1035206446`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/clothing-mannequin)
 
 ## Coal :(
 
@@ -2520,6 +2560,16 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/electric-heater)
 
+## Electric Table Lamp
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-tablelight.webp)
+
+- **Short Name**: `electric.tablelight`
+- **ID**: `1717250161`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/electric-table-lamp)
+
 ## Electrical Branch
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/electrical-branch.webp)
@@ -2639,6 +2689,26 @@
 - **Stack Size**: ×5
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/f1-grenade)
+
+## Fabric Beanbag Seat
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/beanbagseatfabric.webp)
+
+- **Short Name**: `beanbagseatfabric`
+- **ID**: `-576866254`
+- **Stack Size**: ×5
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/fabric-beanbag-seat)
+
+## Fairy Lights
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-fairylights.webp)
+
+- **Short Name**: `electric.fairylights`
+- **ID**: `54436981`
+- **Stack Size**: ×150
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/fairy-lights)
 
 ## Fertilizer
 
@@ -2869,6 +2939,16 @@
 - **Stack Size**: ×5
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/fluid-switch-pump)
+
+## Fluorescent Light
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-fluorescentlight.webp)
+
+- **Short Name**: `electric.fluorescentlight`
+- **ID**: `1892536031`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/fluorescent-light)
 
 ## Fogger-3000
 
@@ -4550,6 +4630,16 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/leather)
 
+## Leather Beanbag Seat
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/beanbagseatleather.webp)
+
+- **Short Name**: `beanbagseatleather`
+- **ID**: `-1220928936`
+- **Stack Size**: ×5
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/leather-beanbag-seat)
+
 ## Leather Gloves
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/burlap-gloves.webp)
@@ -4714,8 +4804,8 @@
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/wall-frame-lunar2025-a.webp)
 
-- **Short Name**: `wall.frame.lunar2025_a`
-- **ID**: `1115193056`
+- **Short Name**: `wall.frame.lunar2025_c`
+- **ID**: `-2016974826`
 - **Stack Size**: ×10
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/lunar-wall-frame-inlay)
@@ -4724,11 +4814,11 @@
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/wall-frame-lunar2025-b.webp)
 
-- **Short Name**: `wall.frame.lunar2025_b`
-- **ID**: `-450890885`
+- **Short Name**: `wall.frame.lunar2025_c`
+- **ID**: `-2016974826`
 - **Stack Size**: ×10
 - **Despawn Time**: 5m
-- [View Item](https://rusthelp.com/items/lunar-wall-frame-swirling)
+- [View Item](https://rusthelp.com/items/lunar-wall-frame-inlay)
 
 ## Lunar Wall Frame Inlay
 
@@ -4738,7 +4828,7 @@
 - **ID**: `-2016974826`
 - **Stack Size**: ×10
 - **Despawn Time**: 5m
-- [View Item](https://rusthelp.com/items/lunar-wall-frame-floral)
+- [View Item](https://rusthelp.com/items/lunar-wall-frame-inlay)
 
 ## M15 Semi-Automatic Pistol
 
@@ -4747,7 +4837,7 @@
 - **Short Name**: `pistol.semiauto.a.m15`
 - **ID**: `1673224590`
 - **Stack Size**: ×1
-- **Despawn Time**: 5m
+- **Despawn Time**: 40m
 - [View Item](https://rusthelp.com/items/m15-semi-automatic-pistol)
 
 ## M249
@@ -5740,15 +5830,15 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/piercer-bolt)
 
-## Pilot Suit
+## Pilot Hazmat
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/hazmatsuit-pilot.webp)
 
 - **Short Name**: `hazmatsuit.pilot`
 - **ID**: `1065594600`
 - **Stack Size**: ×1
-- **Despawn Time**: 5m
-- [View Item](https://rusthelp.com/items/pilot-hazmat-suit)
+- **Despawn Time**: 40m
+- [View Item](https://rusthelp.com/items/pilot-hazmat)
 
 ## Pinata
 
@@ -7990,6 +8080,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/spooky-speaker)
 
+## Spot Light
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-spotlight.webp)
+
+- **Short Name**: `electric.spotlight`
+- **ID**: `-1258821205`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/spot-light)
+
 ## Spray Can
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/spraycan.webp)
@@ -8560,6 +8660,16 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/triangle-rail-road-planter)
 
+## Tripod Spot Light
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-spotlight-tripod.webp)
+
+- **Short Name**: `electric.spotlight.tripod`
+- **ID**: `-2134097299`
+- **Stack Size**: ×10
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/tripod-spot-light)
+
 ## Tuna Can Lamp
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/tunalight.webp)
@@ -8709,6 +8819,16 @@
 - **Stack Size**: ×1
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/walkie-talkie)
+
+## Wall Cabinet
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/electric-wallcabinet.webp)
+
+- **Short Name**: `electric.wallcabinet`
+- **ID**: `656829501`
+- **Stack Size**: ×1
+- **Despawn Time**: 5m
+- [View Item](https://rusthelp.com/items/wall-cabinet)
 
 ## Wallpaper
 

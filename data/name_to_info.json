@@ -569,6 +569,11 @@
     "short_name": "building.planner",
     "id": "1525520776"
   },
+  "bulb-string-lights": {
+    "name": "Bulb String Lights",
+    "short_name": "electric.bulbstringlights",
+    "id": "104856514"
+  },
   "bunny-ears": {
     "name": "Bunny Ears",
     "short_name": "attire.bunnyears",
@@ -764,6 +769,11 @@
     "short_name": "fish.catfish",
     "id": "-587989372"
   },
+  "ceiling-fluorescent-light": {
+    "name": "Ceiling Fluorescent Light",
+    "short_name": "electric.fluorescentlight.ceiling",
+    "id": "640470230"
+  },
   "ceiling-light": {
     "name": "Ceiling Light",
     "short_name": "ceilinglight",
@@ -793,6 +803,11 @@
     "name": "Champagne Boomer",
     "short_name": "firework.boomer.champagne",
     "id": "1324203999"
+  },
+  "chandelier": {
+    "name": "Chandelier",
+    "short_name": "electric.chandelier",
+    "id": "-1510616686"
   },
   "charcoal": {
     "name": "Charcoal",
@@ -863,6 +878,11 @@
     "name": "Cloth",
     "short_name": "cloth",
     "id": "-858312878"
+  },
+  "clothing-mannequin": {
+    "name": "Clothing Mannequin",
+    "short_name": "mannequin",
+    "id": "-1035206446"
   },
   "coal": {
     "name": "Coal :(",
@@ -1259,6 +1279,11 @@
     "short_name": "electric.heater",
     "id": "-784870360"
   },
+  "electric-table-lamp": {
+    "name": "Electric Table Lamp",
+    "short_name": "electric.tablelight",
+    "id": "1717250161"
+  },
   "electrical-branch": {
     "name": "Electrical Branch",
     "short_name": "electrical.branch",
@@ -1318,6 +1343,16 @@
     "name": "F1 Grenade",
     "short_name": "grenade.f1",
     "id": "143803535"
+  },
+  "fabric-beanbag-seat": {
+    "name": "Fabric Beanbag Seat",
+    "short_name": "beanbagseatfabric",
+    "id": "-576866254"
+  },
+  "fairy-lights": {
+    "name": "Fairy Lights",
+    "short_name": "electric.fairylights",
+    "id": "54436981"
   },
   "fertilizer": {
     "name": "Fertilizer",
@@ -1433,6 +1468,11 @@
     "name": "Fluid Switch & Pump",
     "short_name": "fluid.switch",
     "id": "443432036"
+  },
+  "fluorescent-light": {
+    "name": "Fluorescent Light",
+    "short_name": "electric.fluorescentlight",
+    "id": "1892536031"
   },
   "fogger-3000": {
     "name": "Fogger-3000",
@@ -2274,6 +2314,11 @@
     "short_name": "leather",
     "id": "1381010055"
   },
+  "leather-beanbag-seat": {
+    "name": "Leather Beanbag Seat",
+    "short_name": "beanbagseatleather",
+    "id": "-1220928936"
+  },
   "leather-gloves": {
     "name": "Leather Gloves",
     "short_name": "burlap.gloves",
@@ -2355,16 +2400,6 @@
     "id": "695450239"
   },
   "lunar-wall-frame-inlay": {
-    "name": "Lunar Wall Frame Inlay",
-    "short_name": "wall.frame.lunar2025_a",
-    "id": "1115193056"
-  },
-  "lunar-wall-frame-swirling": {
-    "name": "Lunar Wall Frame Inlay",
-    "short_name": "wall.frame.lunar2025_b",
-    "id": "-450890885"
-  },
-  "lunar-wall-frame-floral": {
     "name": "Lunar Wall Frame Inlay",
     "short_name": "wall.frame.lunar2025_c",
     "id": "-2016974826"
@@ -2869,8 +2904,8 @@
     "short_name": "ballista.bolt.piercer",
     "id": "-1127003365"
   },
-  "pilot-hazmat-suit": {
-    "name": "Pilot Suit",
+  "pilot-hazmat": {
+    "name": "Pilot Hazmat",
     "short_name": "hazmatsuit.pilot",
     "id": "1065594600"
   },
@@ -3994,6 +4029,11 @@
     "short_name": "spookyspeaker",
     "id": "1885488976"
   },
+  "spot-light": {
+    "name": "Spot Light",
+    "short_name": "electric.spotlight",
+    "id": "-1258821205"
+  },
   "spray-can": {
     "name": "Spray Can",
     "short_name": "spraycan",
@@ -4279,6 +4319,11 @@
     "short_name": "triangle.rail.road.planter",
     "id": "647240052"
   },
+  "tripod-spot-light": {
+    "name": "Tripod Spot Light",
+    "short_name": "electric.spotlight.tripod",
+    "id": "-2134097299"
+  },
   "tuna-can-lamp": {
     "name": "Tuna Can Lamp",
     "short_name": "tunalight",
@@ -4353,6 +4398,11 @@
     "name": "Walkie Talkie",
     "short_name": "walkietalkie",
     "id": "-1416322465"
+  },
+  "wall-cabinet": {
+    "name": "Wall Cabinet",
+    "short_name": "electric.wallcabinet",
+    "id": "656829501"
   },
   "wallpaper": {
     "name": "Wallpaper",
