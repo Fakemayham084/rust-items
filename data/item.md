@@ -9250,6 +9250,16 @@
 - **Despawn Time**: 20m
 - [View Item](https://rusthelp.com/items/wood-dart)
 
+## Wood Double Door
+
+![Image](https://cdn.rusthelp.com/images/thumbnails/door-double-hinged-wood.webp)
+
+- **Short Name**: `door.double.hinged.wood`
+- **ID**: `-1336109173`
+- **Stack Size**: ×1
+- **Despawn Time**: 40m
+- [View Item](https://rusthelp.com/items/wood-double-door)
+
 ## Wood Shutters
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/shutter-wood-a.webp)

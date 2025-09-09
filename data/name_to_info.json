@@ -4614,6 +4614,11 @@
     "short_name": "dart.wood",
     "id": "-274709858"
   },
+  "wood-double-door": {
+    "name": "Wood Double Door",
+    "short_name": "door.double.hinged.wood",
+    "id": "-1336109173"
+  },
   "wood-shutters": {
     "name": "Wood Shutters",
     "short_name": "shutter.wood.a",
