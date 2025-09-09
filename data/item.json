@@ -7890,16 +7890,6 @@
     "despawn_time": "5m"
   },
   {
-    "name": "Spas-12 Shotgun",
-    "url": "https://rusthelp.com/items/spas-12-shotgun",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/shotgun-spas12.webp",
-    "slug": "spas-12-shotgun",
-    "short_name": "shotgun.spas12",
-    "id": "-41440462",
-    "stack_size": "\u00d71",
-    "despawn_time": "1h"
-  },
-  {
     "name": "Speargun",
     "url": "https://rusthelp.com/items/speargun",
     "image": "https://cdn.rusthelp.com/images/thumbnails/speargun.webp",

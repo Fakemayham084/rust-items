@@ -7890,16 +7890,6 @@
 - **Despawn Time**: 5m
 - [View Item](https://rusthelp.com/items/sousaphone)
 
-## Spas-12 Shotgun
-
-![Image](https://cdn.rusthelp.com/images/thumbnails/shotgun-spas12.webp)
-
-- **Short Name**: `shotgun.spas12`
-- **ID**: `-41440462`
-- **Stack Size**: ×1
-- **Despawn Time**: 1h
-- [View Item](https://rusthelp.com/items/spas-12-shotgun)
-
 ## Speargun
 
 ![Image](https://cdn.rusthelp.com/images/thumbnails/speargun.webp)
