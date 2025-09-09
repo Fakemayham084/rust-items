@@ -9250,16 +9250,6 @@
     "despawn_time": "20m"
   },
   {
-    "name": "Wood Double Door",
-    "url": "https://rusthelp.com/items/wood-double-door",
-    "image": "https://cdn.rusthelp.com/images/thumbnails/door-double-hinged-wood.webp",
-    "slug": "wood-double-door",
-    "short_name": "door.double.hinged.wood",
-    "id": "-1336109173",
-    "stack_size": "\u00d71",
-    "despawn_time": "40m"
-  },
-  {
     "name": "Wood Shutters",
     "url": "https://rusthelp.com/items/wood-shutters",
     "image": "https://cdn.rusthelp.com/images/thumbnails/shutter-wood-a.webp",
